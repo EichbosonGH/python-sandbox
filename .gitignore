@@ -11,3 +11,6 @@ wheels/
 
 # Data files
 *.par
+
+#
+*.code-workspace
