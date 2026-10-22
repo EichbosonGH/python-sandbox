@@ -1,0 +1,100 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.2",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "d96e018f51ea61e5ff2f9c349c5da67d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>2</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "81497dc2-3f25-4159-b2fa-c98914d4dc68",
+      "code_hash": "48f9ce6933b2bd65fba06745776b6bb9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "62e8743b-ad30-461e-b2ff-e8bae44f3ab6",
+      "code_hash": "5b84d574a62ce466541e00a4bd481794",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'toc' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">\"C:\\Users\\A79126029\\AppData\\Local\\Temp\\marimo_28336\\__marimo__cell_62e8743b-ad30-461e-b2ff-e8bae44f3ab6_.py\"</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"p\">[</span><span class=\"n\">toc</span><span class=\"p\">]</span>\n<span class=\"w\">     </span><span class=\"pm\">^^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name 'toc' is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "5cc21063-106c-4899-9445-73bf606b26d2",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "e0094275-e120-4372-ab87-c2066f0d7586",
+      "code_hash": "2165a3ac278eb64f0d36dac4f79fbeda",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "4690f9cb-632e-46e0-821e-01d7751676c0",
+      "code_hash": "3a0f1d961881419d794fef7337eba824",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([0.47280129, 0.15761133, 0.32259815, 0.06437155, 0.13830861,\n       0.18688288, 0.45017489, 0.94756914, 0.33572914, 0.61590552])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "c3d28492-6db4-4e99-84d7-ab126e184f7c",
+      "code_hash": "c2ed6e973ca27b045fb239c377e32317",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='c3d28492-6db4-4e99-84d7-ab126e184f7c-0' random-id='73842ad9-f8f9-4dd9-212c-93ee7c476fcf'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;x&#92;&quot;:0.11407675904556647,&#92;&quot;y&#92;&quot;:0.013789364470706},{&#92;&quot;x&#92;&quot;:0.4061701224119516,&#92;&quot;y&#92;&quot;:0.6619423287982528},{&#92;&quot;x&#92;&quot;:0.9019639226638501,&#92;&quot;y&#92;&quot;:0.12709970522957537},{&#92;&quot;x&#92;&quot;:0.42382746157377127,&#92;&quot;y&#92;&quot;:0.3173482642891531},{&#92;&quot;x&#92;&quot;:0.20666079456033093,&#92;&quot;y&#92;&quot;:0.8502266486752508},{&#92;&quot;x&#92;&quot;:0.6792387804842986,&#92;&quot;y&#92;&quot;:0.8307953324208672},{&#92;&quot;x&#92;&quot;:0.09682908605048468,&#92;&quot;y&#92;&quot;:0.8895833463439248},{&#92;&quot;x&#92;&quot;:0.6308417662499599,&#92;&quot;y&#92;&quot;:0.9128727184182268},{&#92;&quot;x&#92;&quot;:0.9346028624878,&#92;&quot;y&#92;&quot;:0.2956867272109195},{&#92;&quot;x&#92;&quot;:0.07778140613451068,&#92;&quot;y&#92;&quot;:0.5886183481443675}]&quot;' data-total-rows='1000' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;x&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;y&quot;,[&quot;number&quot;,&quot;f64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
