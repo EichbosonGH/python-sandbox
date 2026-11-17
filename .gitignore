@@ -15,5 +15,8 @@ wheels/
 # Data files
 *.par
 
-#
+# VS Code 
 *.code-workspace
+
+# marimo
+__marimo__/
